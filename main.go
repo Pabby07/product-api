@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 	"github.com/gin-gonic/gin"
-	"github.com/yourusername/product-api/handlers"
+	"github.com/Pabby07/product-api/handlers"
 )
 
 func main() {
